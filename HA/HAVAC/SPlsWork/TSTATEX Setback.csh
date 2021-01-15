@@ -1,0 +1,203 @@
+[BEGIN]
+  Version=1
+[END]
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=CresSPlus
+  RelVrs=1
+  IntStrVrs=1
+  SPlusVrs=4.02.26
+  CrossCplrVrs=1.3
+[END]
+[BEGIN]
+  ObjTp=Hd
+[END]
+[BEGIN]
+  ObjTp=Symbol
+  Exclusions=1,19,20,21,88,89,167,168,179,213,214,215,216,217,225,226,248,249,266,267,310,718,756,854,
+  Exclusions_CDS=5
+  Inclusions_CDS=6
+  Name=TSTATEX Setback (cm)
+  SmplCName=TSTATEX Setback.csp
+  Code=1
+  SysRev5=4.000
+  SMWRev=3.00.00
+  InputCue1=[~UNUSED~]
+  InputSigType1=Digital
+  InputCue2=[~UNUSED~]
+  InputSigType2=Digital
+  InputCue3=[~UNUSED~]
+  InputSigType3=Digital
+  InputCue4=[~UNUSED~]
+  InputSigType4=Digital
+  InputCue5=[~UNUSED~]
+  InputSigType5=Digital
+  InputCue6=[~UNUSED~]
+  InputSigType6=Digital
+  InputCue7=InDegF
+  InputSigType7=Digital
+  InputCue8=InDegC
+  InputSigType8=Digital
+  InputCue9=Setback_Press
+  InputSigType9=Digital
+  InputCue10=Run
+  InputSigType10=Digital
+  InputCue11=SaveSetbackEnable
+  InputSigType11=Digital
+  OutputCue1=[~UNUSED~]
+  OutputSigType1=Digital
+  OutputCue2=[~UNUSED~]
+  OutputSigType2=Digital
+  OutputCue3=[~UNUSED~]
+  OutputSigType3=Digital
+  OutputCue4=[~UNUSED~]
+  OutputSigType4=Digital
+  OutputCue5=[~UNUSED~]
+  OutputSigType5=Digital
+  OutputCue6=[~UNUSED~]
+  OutputSigType6=Digital
+  OutputCue7=SetbackEnabled
+  OutputSigType7=Digital
+  InputList2Cue1=HeatSetpoint
+  InputList2SigType1=Analog
+  InputList2Cue2=CoolSetpoint
+  InputList2SigType2=Analog
+  InputList2Cue3=Auto1ptSetpoint
+  InputList2SigType3=Analog
+  InputList2Cue4=Deadband
+  InputList2SigType4=Analog
+  OutputList2Cue1=HeatSetpointOut
+  OutputList2SigType1=Analog
+  OutputList2Cue2=CoolSetpointOut
+  OutputList2SigType2=Analog
+  OutputList2Cue3=Auto1ptSetpointOut
+  OutputList2SigType3=Analog
+  ParamCue1=[Reference Name]
+  ParamCue2=HeatSetback
+  ParamSigType2=Constant
+  ParamCue3=CoolSetback
+  ParamSigType3=Constant
+  ParamCue4=Auto1ptSetback
+  ParamSigType4=Constant
+  ParamCue5=DisplayUnit
+  ParamSigType5=Constant
+  ParamCue6=InstanceID
+  ParamSigType6=Constant
+  ParamCue7=filePath$
+  ParamSigType7=String
+  MinVariableInputs=11
+  MaxVariableInputs=11
+  MinVariableInputsList2=4
+  MaxVariableInputsList2=4
+  MinVariableOutputs=7
+  MaxVariableOutputs=7
+  MinVariableOutputsList2=3
+  MaxVariableOutputsList2=3
+  MinVariableParams=6
+  MaxVariableParams=6
+  Expand=expand_separately
+  Expand2=expand_separately
+  ProgramTree=Logic
+  SymbolTree=0
+  Hint=
+  PdfHelp=
+  HelpID= 
+  Render=4
+  Smpl-C=16
+  CompilerCode=-48
+  CompilerParamCode=27
+  CompilerParamCode5=14
+  NumFixedParams=1
+  Pp1=1
+  Pp2=2
+  Pp3=3
+  Pp4=4
+  Pp5=5
+  Pp6=6
+  Pp7=7
+  MPp=7
+  NVStorage=10
+  ParamSigType1=String
+  SmplCInputCue1=o#
+  SmplCOutputCue1=i#
+  SmplCInputList2Cue1=an#
+  SmplCOutputList2Cue1=ai#
+  SPlus2CompiledName=S2_TSTATEX_Setback
+  SymJam=NonExclusive
+  FileName=TSTATEX Setback.csh
+  SIMPLPlusModuleEncoding=3
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=1
+  Tp=1
+  NoS=False
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=2
+  Tp=1
+  HD=False
+  Sgn=0
+  Lng=False
+  NF=63
+  NoS=True
+  DNF=1
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=3
+  Tp=1
+  HD=False
+  Sgn=0
+  Lng=False
+  NF=63
+  NoS=True
+  DNF=1
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=4
+  Tp=1
+  HD=False
+  Sgn=0
+  Lng=False
+  NF=63
+  NoS=True
+  DNF=1
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=5
+  Tp=1
+  HD=False
+  Sgn=0
+  Lng=False
+  NF=63
+  NoS=True
+  DNF=1
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=6
+  Tp=1
+  HD=False
+  Sgn=0
+  Lng=False
+  NF=63
+  NoS=True
+  DNF=1
+  VVS=0
+[END]
+[BEGIN]
+  ObjTp=Dp
+  H=7
+  Tp=1
+  HD=False
+  NoS=False
+  VVS=0
+[END]

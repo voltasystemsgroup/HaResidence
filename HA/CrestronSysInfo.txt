@@ -1,0 +1,1039 @@
+[Toolbox Install Info]
+Install Path: C:\Program Files (x86)\Crestron\Toolbox
+
+Data:
+                                 Devices.rzinis: 140515         C:\Program Files (x86)\Crestron\Cresdb\Toolbox\Devices.rzinis
+                                 Devices.rzinis: 140515         C:\Program Files (x86)\Crestron\Toolbox\Data\Devices.rzinis
+
+Modules:
+                               VptComServer.exe: 2.36.913       C:\Program Files (x86)\Crestron\Toolbox\VptComServer.exe
+                                 CmVptLib32.dll: 2.36.913       C:\Program Files (x86)\Crestron\Toolbox\CmVptLib32.dll
+                                    Toolbox.exe: 2.1.0.1        C:\Program Files (x86)\Crestron\Toolbox\Toolbox.exe
+                                   CmVptGui.dll: 2.0.0.6        C:\Program Files (x86)\Crestron\Toolbox\CmVptGui.dll
+                                   CmVptCOM.dll: 2.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\CmVptCOM.dll
+                             VptAddressBook.dll: 2.0.1.0        C:\Program Files (x86)\Crestron\Toolbox\VptAddressBook.dll
+                                CmCoolCtrls.dll:                
+                                     SC_Lib.dll: 2.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\SC_Lib.dll
+                                   libeay32.dll: 1.2            C:\Program Files (x86)\Crestron\Toolbox\libeay32.dll
+                                   SSLeay32.dll: 1.2            C:\Program Files (x86)\Crestron\Toolbox\SSLeay32.dll
+                                    CMTIO32.dll:                
+                               RegistryCtrl.dll:                C:\Program Files (x86)\Crestron\Toolbox\RegistryCtrl.dll
+                               CmFirmwareTB.dll: 2.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\CmFirmwareTB.dll
+                                     CmPeq2.dll: 2.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\cmpeq2.dll
+                           VptCtrlSysEngine.dll: 1.1.0.0        C:\Program Files (x86)\Crestron\Toolbox\VptCtrlSysEngine.dll
+                               SmwPrgEngine.dll: 1.1.0.0        C:\Program Files (x86)\Crestron\Toolbox\SmwPrgEngine.dll
+
+Tools:
+                               Network Analyzer: 2.31.0.1       C:\Program Files (x86)\Crestron\Toolbox\NetworkAnalyzer.ocx
+                                       QM-Tools: 2.2.0.7        C:\Program Files (x86)\Crestron\Toolbox\AudioConfig.ocx
+                  Crestron Biometric Setup Tool: 1.00.03        C:\Program Files (x86)\Crestron\Toolbox\BiometricSetupTool.ocx
+             Crestron.Toolbox.Controls.BPC8Tool: 1.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.BPC8Tool.DLL
+        Crestron.Toolbox.Controls.DeviceLearner: 1.0.2.0        C:\Windows\assembly\GAC_MSIL\Crestron.Toolbox.Controls.DeviceLearner\1.0.2.0__de947429dae412c8\Crestron.Toolbox.Controls.DeviceLearner.dll
+             Crestron.Toolbox.Controls.DMPSTool: 1.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.DMPSTool.DLL
+           Crestron.Toolbox.Controls.EasyConfig: 1.0.0.0        C:\Windows\assembly\GAC_MSIL\Crestron.Toolbox.Controls.EasyConfig\1.0.0.0__de947429dae412c8\Crestron.Toolbox.Controls.EasyConfig.dll
+             Crestron.Toolbox.Controls.EDIDTool: 1.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.EDIDTool.DLL
+        Crestron.Toolbox.Controls.EnergyMonitor: 1.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.EnergyMonitor.DLL
+            Crestron.Toolbox.Controls.HDXSPTool: 1.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.HDXSPTool.DLL
+Crestron.Toolbox.Controls.InfiNetDiagnosticTool: 1.1.0.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.InfiNetDiagnosticTool.DLL
+         Crestron.Toolbox.Controls.ProdigyTools: 1.0.16.0       C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.ProdigyTools.DLL
+          Crestron.Toolbox.Controls.RGBHVHBTool: 1.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.RGBHVHBTool.DLL
+           Crestron.Toolbox.Controls.SonnexTool: 1.0.6.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.SonnexTool.DLL
+        Crestron.Toolbox.Controls.SystemMonitor: 1.0.0.2        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.SystemMonitor.DLL
+         Crestron.Toolbox.Controls.DINDALI2Tool: 1.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.DINDALI2Tool.DLL
+         Crestron.Toolbox.Controls.DINDALI2Tool: 1.0.0.0        C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.DINDALI2Tool.DLL
+                         DeviceDiscoveryControl: 1.0.5248.25597 C:\Program Files (x86)\Crestron\Toolbox\DeviceDiscoveryControl.DLL
+                                         DMTool: 1.0.0.12       C:\Program Files (x86)\Crestron\Toolbox\DMTool.DLL
+                                     DVPHD Tool: 2.01.004       C:\Program Files (x86)\Crestron\Toolbox\DVPTool.ocx
+                                   File Manager: 1.0.0.7        C:\Program Files (x86)\Crestron\Toolbox\FileManager.ocx
+                            Crestron MediaTools: 2.0.0.5        C:\Program Files (x86)\Crestron\Toolbox\MediaTools.ocx
+                       Network Device Tree View: 1.1.0.0        C:\Program Files (x86)\Crestron\Toolbox\NetTreeViewXCtrl.ocx
+                            Package Update Tool: 2.0.4.1        C:\Program Files (x86)\Crestron\Toolbox\PackageUpdate.ocx
+                          Power Management Tool: 1.0.1.0        C:\Program Files (x86)\Crestron\Toolbox\PowerSupplyTool.ocx
+                                   PROCISETools: 1.0.0.34       C:\Program Files (x86)\Crestron\Toolbox\PROCISETools.DLL
+                                Pro Sound Tools: 2.00.18        C:\Program Files (x86)\Crestron\Toolbox\ProSoundTools.ocx
+                                 Script Manager: 2.0.0.1        C:\Program Files (x86)\Crestron\Toolbox\Scripter.ocx
+                                 SIMPL Debugger: 2.2.0.0        C:\Program Files (x86)\Crestron\Toolbox\SIMPL Debugger.ocx
+                          SMW Program Tree View: 1.5.0.0        C:\Program Files (x86)\Crestron\Toolbox\SmwPrgTreeViewXCtrl.ocx
+                                    System Info: 3.0.2.5        C:\Program Files (x86)\Crestron\Toolbox\SystemInfo.ocx
+                            Video Test Patterns: 1.0.0.5        C:\Program Files (x86)\Crestron\Toolbox\TestPatterns.ocx
+                                   Text Console: 3.0.0.5        C:\Program Files (x86)\Crestron\Toolbox\TextConsole2.ocx
+                           CEN-TIA Menu Builder: 2.0.0.2        C:\Program Files (x86)\Crestron\Toolbox\TIAMenuBuilder.ocx
+
+Other Crestron SW:
+Crestron Core 3 UI Controls................: 2.02.11.01   None                    C:\Program Files (x86)\Crestron\Cresdb
+Crestron D-Nav Controls....................: 1.00.18      None                    Unavailable
+Crestron D3 Pro............................: 3.02.002.00  None                    C:\Program Files (x86)\Crestron\D3 Pro
+Crestron D3 Pro Templates (Destiny:Black-Blue): 2.02.020.00  None                    C:\Program Files (x86)\Crestron\Cresdb\Templates\D3 Pro
+Crestron Database..........................: 46.00.004.00 Crestron Database       C:\Program Files (x86)\Crestron\Cresdb
+Crestron Digital Media Tools...............: 3.01.01      None                    Unavailable
+Crestron Engraver..........................: 5.4.21.19    None                    C:\Program Files (x86)\Crestron\Engraver
+Crestron iLux Designer.....................: 2.01.04.06   None                    Unavailable
+Crestron MasterInstaller...................: 3.00.09.00   None                    C:\Program Files\Crestron\MasterInstaller
+Crestron SystemBuilder.....................: 3.13.014.00  None                    C:\Program Files (x86)\Crestron\SystemBuilder
+Crestron SystemBuilder Templates...........: 3.13.001.01  None                    Unavailable
+Crestron SystemBuilder Templates (Destiny:Black-Blue): 3.13.001.01  None                    C:\Program Files (x86)\Crestron\Cresdb\Templates\SystemBuilder
+Crestron SystemBuilder Theme (Destiny:Black-Green): 3.13.001.01  None                    C:\Program Files (x86)\Crestron\Cresdb\Templates\SystemBuilder
+Crestron SystemBuilder Theme (Destiny:Frosted Glass Dark): 3.13.001.01  None                    C:\Program Files (x86)\Crestron\Cresdb\Templates\SystemBuilder
+Crestron SystemBuilder Theme (Destiny:Frosted Glass Light): 3.13.001.01  None                    C:\Program Files (x86)\Crestron\Cresdb\Templates\SystemBuilder
+Crestron Toolbox...........................: 2.36.913.28  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +c3675de2                              : Unknown      None                    Unavailable
+    +DVPHD Tools                           : 2.36.913.43  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +BPC8 Tool                             : 2.36.913.37  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +Complete Shell                        : 2.36.913.32  None                    Unavailable
+    +DVPHD Tools                           : 2.36.913.33  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +Front End                             : 2.36.913.30  None                    Unavailable
+    +Minimal Shell                         : 2.36.913.31  None                    Unavailable
+    +Procise Tools                         : 2.36.913.35  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +Prodigy Tools                         : 2.36.913.36  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +ProSound Tools                        : 2.36.913.34  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +Server                                : 2.36.913.28  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +Procise Tools                         : 2.36.854.45  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +Prodigy Tools                         : 2.36.854.46  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +ProSound Tools                        : 2.36.854.44  None                    C:\Program Files (x86)\Crestron\Toolbox
+    +Toolbox                               : 2.36.913.39  None                    C:\Program Files (x86)\Crestron\Toolbox
+D3 Pro Templates (Destiny).................: 2.02.020.00  None                    Unavailable
+DEAL For Windows...........................: 4.02.04      None                    Unavailable
+Device Database............................: 57.07.001.00 Device Database         Unavailable
+SIMPL Windows..............................: 4.02.48.00   None                    Unavailable
+SIMPL Windows Library......................: 508          None                    Unavailable
+    +GnuSettings                           : 1.3          None                    Unavailable
+SIMPL+ Cross Compiler......................: 1.3          None                    Unavailable
+Smart Graphics Templates...................: 2.01.11      None                    Unavailable
+Touchpanel Graphics........................: 1.00.01.1526 None                    C:\Program Files (x86)\Crestron\Cresdb\Images\Touchpanel Graphics
+VisionTools Pro-e..........................: 5.5.08.03    None                    C:\Program Files (x86)\Crestron\VtPro-e
+
+Operating System:
+         Windows Version: Microsoft Windows 7 Professional  Service Pack 1
+              IE Version: 9.11.9600
+                     CPU: Intel(R) Core(TM) i7-3820QM CPU @ 2.70GHz (x2) @ 2693 MHz
+         Physical Memory: 6143 MB / 8191 MB
+          Virtual Memory: 1839 MB / 2047 MB
+            Admin Rights: Yes
+
+[Product Info]
+DeviceName=MC3
+DeviceCategory=Control System
+DeviceVersion=1.006.0026
+
+[Display Project]
+No project loaded.
+
+[Ethernet]
+NumberOfPorts=1
+LanA.IPAddress=192.168.1.150
+LanA.MACAddress=00.10.7f.40.d3.17
+LanA.IPMask=255.255.255.0
+LanA.NegotiationSpeed=0
+LanA.NegotiationDuplex=FALSE
+LanA.Link=TRUE
+DefaultRouter=192.168.1.1
+Hostname=MC3-7F40D317
+Domain=
+DHCPEnabled=FALSE
+SSLEnabled=FALSE
+SSLCASigned=FALSE
+CIPEnable=FALSE
+PrimaryDNS=
+
+[Cresnet Devices]
+11: C2N-DB12 [v1.00, #002426CB]
+12: C2N-DB12 [v1.00, #002426D2]
+14: C2N-DB12 [v1.00, #002638DC]
+16: C2N-DB12 [v1.00, #0026388A]
+17: C2N-DB12 [v1.00, #00263887]
+18: C2N-DB12 [v1.00, #002426BF]
+19: C2N-DB12 [v1.00, #002426CE]
+1A: C2N-DB12 [v1.00, #00263884]
+1B: C2N-DB12 [v1.00, #00263886]
+1C: C2N-DB12 [v1.00, #0026389E]
+50: AAE Audio Expansion Module [v1.0.3, #0025DFE6]
+51: AAE Audio Expansion Module [v1.0.3, #0025E077]
+
+ 
+
+[Error Log]
+
+Persistent log contents during current boot:
+Notice: nk.exe # 16:44:05  7-16-2014  # User Reboot
+Notice: nk.exe # 16:44:05  7-16-2014  # System startup: MC3 [v1.006.0026 (Feb 06 2013) #009689B3]
+setIP: Registry static IP setting = 192.168.1.150
+Info: nk.exe # 16:44:05  7-16-2014  #  UpdateDHCPOptions:HostName option selected 
+Info: nk.exe # 16:44:06  7-16-2014  # Updating DHCP options on boot
+DRIVER_VERSION : 201, DATECODE : 111708
+Lan9221 identified. ID_REV = 0x92210000
+Use IntPhy
+Auto-MDIX Enable by default!!!
+USB RESET
+USB RESET
+USB RESET
+USB RESET
+LayMgr.cpp: Layout Manager successfully initialized to  1
+Info: CrestronMonitor.exe # 16:44:10  7-16-2014  # Crestron applications already installed
+Warning: ConsoleServiceCE.exe # 16:44:13  7-16-2014  #  ReadInInitialLinkStatus - Attempt to read static DNS failed ... Defaulting
+Notice: ConsoleServiceCE.exe # 16:44:14  7-16-2014  # Got Security Flag: 0
+Notice: ConsoleServiceCE.exe # 16:44:18  7-16-2014  # USB Connection has been made.
+Info: TLDM.exe # 16:44:21  7-16-2014  #  THAL loading now  .. 
+Info: TLDM.exe # 16:44:22  7-16-2014  #  TLDM Starting.. 
+ Info: TLDM.exe # 16:44:22  7-16-2014  #  Resuming rcv task now 
+Info: TLDM.exe # 16:44:22  7-16-2014  #  Successfully registered with the console service - Console available 
+Info: RfGateway.exe # 16:44:22  7-16-2014  #  TLDMInterfaceReadInMessageQueueSize - Queue size defaults to 50 
+Info: nk.exe # 16:44:23  7-16-2014  # IEX: Host chip found (count 2)
+Info: nk.exe # 16:44:23  7-16-2014  # IEX: NCP initialized successfully!
+Ok: SimplSharpPro.exe # 16:44:33  7-16-2014  #  Successfully registered the application with the TLDM 
+Ok: SimplSharpPro.exe # 16:44:36  7-16-2014  #  Creating 5 User threads with initial priority 253 
+Info: CRESLOG.exe # 16:44:38  7-16-2014  # PersistentLog: Logging is started!
+Persistent log contents during current boot end
+
+
+[Internal Memory Usage]
+InternalMem.Program=0
+InternalMem.SPLUS=0
+InternalMem.Free=1820184576
+InternalMem.Used=50466816
+InternalMem.Reclaimable=0
+InternalMem.Free_Hi=0
+InternalMem.Used_Hi=0
+InternalMem.Reclaimable_Hi=0
+InternalMem.DisplayList=286842
+InternalMem.WebPages=0
+
+[Compact Flash Usage]
+CompactFlash.Inserted=FALSE
+CompactFlash.Free=1820184576
+CompactFlash.Used=50466816
+CompactFlash.UsageProgram=0
+CompactFlash.UsageSPLUS=0
+CompactFlash.UsageWebPages=0
+CompactFlash.UsageDisplayList=286842
+
+[System Clock]
+TimeDate=16:47:22 7-16-2014
+SystemUpTime.Days=0
+SystemUpTime.HundredthsSecs=19600
+ProgramUpTime.Days=-1
+ProgramUpTime.HundredthsSecs=-1
+
+[Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[*ADV* Touch Settable Devices]
+FFFFFFFF Y 00 N   ERROR1: Bad response
+FFFFFFFE Y 00 N   ERROR2: Bad response
+
+[EBoot.Product Info]
+DeviceName=MC3-Module-EBOOT
+DeviceCategory=Firmware Module
+DeviceVersion=1.20.00
+
+[OOTB-OSD.Product Info]
+DeviceName=CrtlSys_LogosFamilyOOTBF
+DeviceCategory=Unknown
+DeviceVersion=1.006.0026
+
+[OOTB-OSD.Display Project]
+No project loaded.
+
+[OS.Product Info]
+DeviceName=MC3-Module-OS
+DeviceCategory=Firmware Module
+DeviceVersion=1.006.0026
+
+[Program01.Program]
+No Program Loaded.
+
+[Program01.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program01.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program01.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program01.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program02.Program]
+No Program Loaded.
+
+[Program02.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program02.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program02.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program02.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program03.Program]
+No Program Loaded.
+
+[Program03.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program03.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program03.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program03.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program04.Program]
+No Program Loaded.
+
+[Program04.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program04.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program04.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program04.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program05.Program]
+No Program Loaded.
+
+[Program05.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program05.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program05.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program05.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program06.Program]
+No Program Loaded.
+
+[Program06.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program06.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program06.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program06.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program07.Program]
+No Program Loaded.
+
+[Program07.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program07.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program07.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program07.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program08.Program]
+No Program Loaded.
+
+[Program08.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program08.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program08.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program08.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program09.Program]
+No Program Loaded.
+
+[Program09.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program09.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program09.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program09.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program10.Program]
+No Program Loaded.
+
+[Program10.IP Table]
+IP ID   Address             Entry Type  Dev ID  Port    Connection Type     Status      Fixed
+
+[Program10.Firmware Capabilities]
+  Category:          Control System
+  SIMPL:             Level 1
+  SIMPL+:            Level 1
+  DisplayList:       NOT SUPPORTED
+  Web Server:        Enabled: Level 1
+  FTP Transfers:     NOT SUPPORTED
+  Ethernet Ports:    1
+  Ethernet Active:   Yes
+  IP Table:          Yes
+  IP Table Format:   DIP: Level 2
+  Max IP Entries:    252
+  IP Masters:        0
+  DHCP Support:      Yes
+  Password:          Yes
+  Front Panel Type:  OSD
+  Front Panel Slot:  10
+  NVRAM Size:        131072
+  Removeable Media:  USB
+  USB:               NOT_INSERTED
+  PnP support:       Level 1
+  Network Analyzer:  SUPPORTED: Level 1
+  SSL support:       SUPPORTED: Level 1
+  RConsole support:  SUPPORTED: Level 3
+  System Monitor:    SUPPORTED: Level 4
+  TJI support:       Level 5
+  RTJI support:      Level 2
+  Max Programs:      10
+  MDBGSIGNAL:        SUPPORTED: Level 2
+  Core3UILevel:      NOT SUPPORTED
+
+
+[Program10.Hardware Info]
+Current Hardware Configuration
+	Processor Type:    MC3
+	Num YBus Slots:    0
+	Num ZBus Slots:    1
+	   1: C2I-MC3CNET-1 Cresnet 
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Program10.Card Info]
+	   2: C2I-MC3ENET-1 Ethernet 
+	   3: C2I-MC3RFGW-EX Internal RF Gateway 
+	   4: C2I-MC3-COM2-232 2 Port Internal COM 
+	   5: C2I-MC3-RY2 2 Port Internal Relay 
+	   6: C2I-MC3-DI2 2 Port Internal Digital Input 
+	   7: C2I-MC3-IR5 5 Port Internal IR OUT 
+	   8: C2I-MC3-IR-INPUT Internal IR Input 
+	   9: C2I-MC3-Audio 
+	  10: C2I-MC3-OSD Front Panel 
+	  11: C2I-MC3-SYSMON System Monitor Slot 
+	  12: C2I-MC3-SNMP Slot 
+	  13: C2I-MC3-BACNET Slot 
+
+
+[Updater.Product Info]
+DeviceName=MC3-Module-UPDATER
+DeviceCategory=Firmware Module
+DeviceVersion=1.000.0022
+
